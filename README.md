@@ -118,3 +118,4 @@ The core workflow has been exercised with a test recording: transcription, scree
 **HateShield AI** · Built as an AI/ML portfolio project
 
 </div>
+https://hateshield-ai-demo.streamlit.app/
