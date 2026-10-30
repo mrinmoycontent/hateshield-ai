@@ -31,10 +31,7 @@ HateShield AI takes audio or text and runs it through a set of AI-assisted analy
 
 The screenshot below is from the running application. It shows the emotion probability table and its corresponding chart.
 
-<p align="center">
-  <img src="assets/emotion-analysis.png" alt="HateShield AI emotion analysis results showing emotion probabilities and a bar chart" width="100%">
-</p>
-
+![HateShield AI Emotion Analysis](assets/emotion-analysis.png)
 <p align="center"><em>Observed model output from a test run. Scores are not validated psychological measurements.</em></p>
 
 ## 📊 Recorded test results
