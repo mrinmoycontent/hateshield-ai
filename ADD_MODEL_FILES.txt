@@ -1,0 +1,5 @@
+Before deploying, copy these two files from your Google Colab /content directory into this folder:
+- hate_speech_model.pkl
+- label_mapping.pkl
+
+They must be beside app.py. The application now uses paths relative to app.py, not /content.
